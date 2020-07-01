@@ -2,126 +2,28 @@
 	"data": [
 		{
 			"id": 36,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880990UZRUjP.pdf",
-			"filesize": "6.7 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg",
-			"release_date": "2018-06-27"
+			"name": "Name one",
+			"image_path": "https://via.placeholder.com/600/92c952"
+			
 		},
 		{
 			"id": 35,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880971edptEk.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg",
-			"release_date": "2018-06-27"
+			"name": "Name two",
+			"image_path": "https://via.placeholder.com/600/771796"
+			
 		},
 		{
 			"id": 34,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880938JObeCw.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/jolie.jpg",
-			"release_date": "2018-06-19"
+			"name": "Name three",
+			"image_path": "https://via.placeholder.com/150/24f355"
+			
 		},
 		{
 			"id": 33,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880910bqzA9f.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg",
-			"release_date": "2018-06-26"
-		},
-		{
-			"id": 32,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880887TZq2mh.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/tom.jpg",
-			"release_date": "2018-06-26"
-		},
-		{
-			"id": 31,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880765anVlJw.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg",
-			"release_date": "2018-06-28"
-		},
-		{
-			"id": 30,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/15288807429Ysv4Q.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "https://i.stack.imgur.com/j8TJJ.jpg?s=128&g=1",
-			"release_date": "2018-06-26"
-		},
-		{
-			"id": 29,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880696Js8b83.pdf",
-			"filesize": "6.7 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "https://i.stack.imgur.com/j8TJJ.jpg?s=128&g=1",
-			"release_date": "2018-06-26"
-		},
-		{
-			"id": 28,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880674jHibTd.pdf",
-			"filesize": "4.4 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg",
-			"release_date": "2018-06-24"
-		},
-		{
-			"id": 27,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/15288806473FjSuN.pdf",
-			"filesize": "6.7 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg",
-			"release_date": "2018-06-26"
-		},
-		{
-			"id": 26,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880625XB585P.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg",
-			"release_date": "2018-06-27"
-		},
-		{
-			"id": 25,
-			"file": "http:\/\/192.168.100.26:8000\/uploads\/pdf-files\/1528880606AF97ej.pdf",
-			"filesize": "10 MB",
-			"journal_type": "Daily Eleven",
-			"description": "Description",
-			"image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg",
-			"release_date": "2018-06-26"
+			"name": "Name four",
+			"image_path": "https://via.placeholder.com/150/d32776"
 		}
-	],
-	"links": {
-		"first": "http:\/\/192.168.100.26:8000\/api\/pdfs?page=1",
-		"last": "http:\/\/192.168.100.26:8000\/api\/pdfs?page=3",
-		"prev": null,
-		"next": "https://raw.githubusercontent.com/htethtetsu/page2/master/page2.json"
-	},
-	"meta": {
-		"current_page": 1,
-		"from": 1,
-		"last_page": 3,
-		"path": "http:\/\/192.168.100.26:8000\/api\/pdfs",
-		"per_page": 12,
-		"to": 12,
-		"total": 25
-	}
+		
+	]
+	
 }

@@ -1,22 +1,19 @@
 {
-	"data": [
+   "data": [
 		{
 			"id": 36,
-			"name": "Name one",
+			"name": "Name three",
 			"image_path": "https://via.placeholder.com/600/92c952"
-			
 		},
 		{
 			"id": 35,
-			"name": "Name two",
+			"name": "Name three",
 			"image_path": "https://via.placeholder.com/600/771796"
-			
 		},
 		{
 			"id": 34,
 			"name": "Name three",
 			"image_path": "https://via.placeholder.com/150/24f355"
-			
 		},
 		{
 			"id": 33,
